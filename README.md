@@ -13,7 +13,7 @@ A health and nutrition chatbot by Placeholder team in Facebook Developer Circles
 * [Food detection model using YOLOv3](https://github.com/hmq1812/food-detection): train on selected classes from ["UEC FOOD 256": 256-kind food dataset](http://foodcam.mobi/dataset256.html)
 
 ## Product demo
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/E5XJWdFVycU)
+[![Watch the video](https://i.imgur.com/4d4OeTI.png)](https://youtu.be/E5XJWdFVycU)
 
 ## Authors and acknowledgement
 * **Minh Quan Huynh**: [hmq1812](https://github.com/hmq1812)
